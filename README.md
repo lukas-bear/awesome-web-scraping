@@ -6,7 +6,7 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 
 - [Core Libraries](#core-libraries)
   - [Python](#python)
-  - [JavaScript/Node.js](#javascriptnodejs) 
+  - [JavaScript/Node.js](#javascriptnodejs)
   - [Java](#java)
   - [Go](#go)
   - [Ruby](#ruby)
@@ -52,7 +52,7 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - Web automation library
 
 ### JavaScript/Node.js
-* [Puppeteer](https://github.com/puppeteer/puppeteer) - Chrome automation API 
+* [Puppeteer](https://github.com/puppeteer/puppeteer) - Chrome automation API
 * [Cheerio](https://github.com/cheeriojs/cheerio) - Fast jQuery-like parsing
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client
 * [node-crawler](https://github.com/bda-research/node-crawler) - Web crawler with jQuery
@@ -61,10 +61,18 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 
 ### Java
 * [JSoup](https://jsoup.org/) - HTML parsing and manipulation
-* [Selenium WebDriver](https://www.selenium.dev/) - Browser automation 
+* [Selenium WebDriver](https://www.selenium.dev/) - Browser automation
 * [Apache HttpClient](https://hc.apache.org/) - HTTP client library
 * [crawler4j](https://github.com/CrawlerPack/crawler4j) - Multithreaded crawler
 * [webmagic](https://github.com/code4craft/webmagic) - Distributed crawler framework
+
+### Go
+* [colly](https://github.com/gocolly/colly) – Fast and elegant scraping framework, with features like cookie handling, automatic request delays, and parallel crawling.
+* [fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
+* [goquery](https://github.com/PuerkitoBio/goquery) – A jQuery-like API for parsing and manipulating HTML documents.
+* [rod](https://github.com/go-rod/rod) – A high-level browser automation framework powered by Chromium DevTools.
+* [playwright-go](https://github.com/playwright-community/playwright-go) – Go bindings for Playwright, ideal for headless and non-headless browser automation.
+* [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
 
 ### Ruby
 * [Nokogiri](https://github.com/sparklemotion/nokogiri) - HTML/XML parsing
@@ -72,6 +80,26 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [Kimurai](https://github.com/vifreefly/kimuraframework) - Modern scraping framework
 * [Watir](https://github.com/watir/watir) - Ruby browser automation
 * [Anemone](https://github.com/chriskite/anemone) - Web spider framework
+
+### PHP
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) - A blazing-fast and easy-to-use HTML parser.
+* [Goutte](https://github.com/FriendsOfPHP/Goutte) - A lightweight PHP web scraper for effortless data extraction.
+* [Crawler](https://www.crwlr.software/packages/crawler) - A powerful library for rapid web scraping and crawling development.
+* [PHPCrawl](http://phpcrawl.cuab.de/) - A robust PHP framework for web crawling and spidering.
+* [simple_html_dom](https://github.com/samacs/simple_html_dom) - Just a Simple HTML DOM library fork.
+
+### Rust
+
+### Perl
+* [WWW::Mechanize](https://metacpan.org/pod/WWW::Mechanize) - Automated web interaction
+* [Mojo::UserAgent](https://docs.mojolicious.org/Mojo/UserAgent) - Modern, non-blocking HTTP client
+* [Web::Scraper](https://metacpan.org/pod/Web::Scraper) - DSL for web scraping
+* [LWP::Simple](https://metacpan.org/pod/LWP::Simple) - Basic web requests
+* [Scrappy](https://metacpan.org/pod/Scrappy) - Lightweight web crawling framework
+* [WWW::Mechanize::Chrome](https://metacpan.org/pod/WWW::Mechanize::Chrome) - Headless browser automation
+
+### R
+
 
 ## Specialized Tools
 
@@ -113,7 +141,7 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [ScraperAPI](https://www.scraperapi.com/) - Proxy API service
 * [IPRotate](https://www.iprotatepro.com/) - IP rotation service
 
-### CAPTCHA Solvers  
+### CAPTCHA Solvers
 * [2captcha](https://2captcha.com/) - Human captcha solving
 * [Anti-Captcha](https://anti-captcha.com/) - Automated solving
 * [DeathByCaptcha](https://deathbycaptcha.com/) - API-based solving
@@ -141,11 +169,11 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 
 ### Rate Limiting
 * Implement exponential backoff
-* Respect robots.txt directives 
+* Respect robots.txt directives
 * Use delays between requests
 * Monitor response codes
 
-### Error Handling  
+### Error Handling
 * Implement retry logic
 * Log errors comprehensively
 * Handle timeouts gracefully
@@ -175,7 +203,3 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/web-scraping)
 * [Reddit r/webscraping](https://reddit.com/r/webscraping)
 * [Scrapy Community](https://scrapy.org/community/)
-
-## License
-
-[MIT](LICENSE)
