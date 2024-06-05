@@ -39,6 +39,7 @@ A comprehensive collection of web scraping resources, tools, and libraries.
   - [Documentation](#documentation)
   - [Tutorials](#tutorials)
   - [Community](#community)
+- [How to Contribute](#Contributing)
 
 ## Core Libraries
 
@@ -67,12 +68,12 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [webmagic](https://github.com/code4craft/webmagic) - Distributed crawler framework
 
 ### Go
-* [colly](https://github.com/gocolly/colly) – Fast and elegant scraping framework, with features like cookie handling, automatic request delays, and parallel crawling.
-* [fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
-* [goquery](https://github.com/PuerkitoBio/goquery) – A jQuery-like API for parsing and manipulating HTML documents.
-* [rod](https://github.com/go-rod/rod) – A high-level browser automation framework powered by Chromium DevTools.
-* [playwright-go](https://github.com/playwright-community/playwright-go) – Go bindings for Playwright, ideal for headless and non-headless browser automation.
-* [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
+* [Colly](https://github.com/gocolly/colly) – Fast and elegant scraping framework, with features like cookie handling, automatic request delays, and parallel crawling.
+* [Fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
+* [Goquery](https://github.com/PuerkitoBio/goquery) – A jQuery-like API for parsing and manipulating HTML documents.
+* [Rod](https://github.com/go-rod/rod) – A high-level browser automation framework powered by Chromium DevTools.
+* [Playwright-go](https://github.com/playwright-community/playwright-go) – Go bindings for Playwright, ideal for headless and non-headless browser automation.
+* [Gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
 
 ### Ruby
 * [Nokogiri](https://github.com/sparklemotion/nokogiri) - HTML/XML parsing
@@ -116,10 +117,10 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [xmltodict](https://github.com/martinblech/xmltodict) - XML to Python dict converter
 
 ### Text Processing
-* [dateparser](https://github.com/scrapinghub/dateparser) - Date parsing library
-* [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Text encoding fixer
-* [price-parser](https://github.com/scrapinghub/price-parser) - Price extraction
-* [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Phone number parsing
+* [Dateparser](https://github.com/scrapinghub/dateparser) - Date parsing library
+* [Ftfy](https://github.com/LuminosoInsight/python-ftfy) - Text encoding fixer
+* [Price-parser](https://github.com/scrapinghub/price-parser) - Price extraction
+* [Phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Phone number parsing
 
 ## Browser Automation
 
@@ -203,3 +204,12 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/web-scraping)
 * [Reddit r/webscraping](https://reddit.com/r/webscraping)
 * [Scrapy Community](https://scrapy.org/community/)
+
+---
+
+## Contributing
+
+Check the [Contribution Guidelines](CONTRIBUTING.md) before sending any updates.
+
+You can [open an issue](https://github.com/lukas-bear/awesome-web-scraping/issues) or [create a new PR](https://github.com/lukas-bear/awesome-web-scraping/pulls) with your additions.
+I'll make sure to check them quickly!
