@@ -90,6 +90,11 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [simple_html_dom](https://github.com/samacs/simple_html_dom) - Just a Simple HTML DOM library fork.
 
 ### Rust
+* [Reqwest](https://docs.rs/reqwest/latest/reqwest/index.html) - HTTP client for making web requests
+* [Scraper](https://github.com/rust-scraper/scraper) - HTML parsing and web scraping (based on html5ever)
+* [Fantoccini](https://docs.rs/fantoccini/latest/fantoccini/) - Web automation using WebDriver
+* [Headless_chrome](https://docs.rs/headless_chrome/latest/headless_chrome/) - Control Chrome for headless browsing
+* [Spider](https://github.com/spider-rs/spider) - A web crawler and scraper
 
 ### Perl
 * [WWW::Mechanize](https://metacpan.org/pod/WWW::Mechanize) - Automated web interaction
@@ -100,7 +105,14 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [WWW::Mechanize::Chrome](https://metacpan.org/pod/WWW::Mechanize::Chrome) - Headless browser automation
 
 ### R
-
+* [rvest](https://cran.r-project.org/package=rvest) - Web scraping and HTML parsing
+* [httr](https://cran.r-project.org/package=httr) - HTTP client for making web requests
+* [RCurl](https://cran.r-project.org/package=RCurl) - HTTP and FTP client interface
+* [xml2](https://cran.r-project.org/package=xml2) - XML and HTML parsing
+* [RSelenium](https://cran.r-project.org/package=RSelenium) - Web automation via Selenium WebDriver
+* [scrapeR](https://cran.r-project.org/package=scrapeR) - Basic web scraping framework
+* [polite](https://cran.r-project.org/package=polite) - Web scraping while respecting robots.txt
+* [webdriver](https://cran.r-project.org/package=webdriver) - Headless browser automation
 
 ## Specialized Tools
 
