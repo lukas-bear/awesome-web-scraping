@@ -1,4 +1,4 @@
-# Awesome Web Scraping [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web Scraping
 
 A comprehensive collection of web scraping resources, tools, and libraries.
 
@@ -23,6 +23,7 @@ A comprehensive collection of web scraping resources, tools, and libraries.
   - [Headless Browsers](#headless-browsers)
   - [Testing Frameworks](#testing-frameworks)
   - [Browser Extensions](#browser-extensions)
+  - [Anti-detect Browsers](#anti-detect-browsers)
 - [Anti-Bot Solutions](#anti-bot-solutions)
   - [Proxy Services](#proxy-services)
   - [CAPTCHA Solvers](#captcha-solvers)
@@ -146,13 +147,30 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [Playwright](https://playwright.dev/) - Modern web testing
 * [Cypress](https://www.cypress.io/) - JavaScript testing framework
 
+### Anti-detect Browsers
+* [Multilogin](https://multilogin.com)
+* [AdsPower ](https://www.adspower.com)
+* [GoLogin](https://gologin.com)
+* [Incogniton](https://incogniton.com)
+* [Dolphin Anty](https://dolphin-anty.com)
+* [MoreLogin](https://www.morelogin.com)
+* [Lalicat](https://www.lalicat.com)
+* [HideMyAcc](https://hidemyacc.com)
+* [BitBrowser](https://www.bitbrowser.net)
+* [Ghost Browser](https://ghostbrowser.com)
+
 ## Anti-Bot Solutions
 
 ### Proxy Services
+* [anyIP.io](https://anyip.io/) - Reliable proxy solutions, solid mobile proxies
 * [Bright Data](https://brightdata.com/) - Enterprise proxy network
 * [Oxylabs](https://oxylabs.io/) - Proxy and scraping solutions
 * [ScraperAPI](https://www.scraperapi.com/) - Proxy API service
 * [IPRotate](https://www.iprotatepro.com/) - IP rotation service
+* [Smartproxy](https://smartproxy.com/) – Residential and datacenter proxies
+* [SOAX](https://soax.com/) – Rotating residential and mobile proxies
+* [ProxyEmpire](https://proxyempire.io/) – Ok residential and mobile proxies
+* [NetNut](https://netnut.io/) – ISP proxies with high uptime
 
 ### CAPTCHA Solvers
 * [2captcha](https://2captcha.com/) - Human captcha solving
