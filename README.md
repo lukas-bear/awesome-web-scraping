@@ -5,15 +5,15 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 ## Contents
 
 - [Core Libraries](#core-libraries)
-  - [Python](python.md)
-  - [JavaScript/Node.js](javascript.md)
-  - [Java](java.md)
-  - [Go](go.md)
-  - [Ruby](ruby.md)
-  - [PHP](php.md)
-  - [Rust](rust.md)
-  - [Perl](perl.md)
-  - [R](r.md)
+  - [Go](go.md) - Collection of modern libraries like Colly, Chromedp, Arachnid, and Soup, with built-in concurrent processing support
+  - [Java](java.md) - Comprehensive set of tools including JSoup, Selenium WebDriver, Apache HttpComponents and Heritrix for enterprise crawling
+  - [JavaScript/Node.js](javascript.md) - Features Puppeteer, Cheerio, Playwright, and Axios, with strong HTTP clients and browser automation capabilities
+  - [Perl](perl.md) - Established libraries like WWW::Mechanize, HTML::Parser, LWP, and Mojo for text processing and web scraping
+  - [PHP](php.md) - Includes Goutte, Symfony DomCrawler, PHP Simple HTML DOM Parser, and Guzzle for web scraping and automation
+  - [Python](python.md) - Rich ecosystem featuring Scrapy, pyspider, BeautifulSoup, lxml, and Selenium, with extensive text processing and automation tools
+  - [R](r.md) - Data-focused tools including rvest, httr, xml2, and RSelenium, with strong integration to the tidyverse ecosystem
+  - [Ruby](ruby.md) - Features Nokogiri, Mechanize, Kimurai framework, and HTTParty, with elegant APIs for web scraping and parsing
+  - [Rust](rust.md) - Modern tooling with reqwest, scraper, tokio, and tungstenite for high-performance async scraping
 - [Specialized Tools](#specialized-tools)
   - [Network Utilities](#network-utilities)
   - [HTML/XML Processing](#htmlxml-processing)
