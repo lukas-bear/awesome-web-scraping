@@ -95,6 +95,7 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [Bright Data](https://brightdata.com/) - Enterprise proxy network
 * [Oxylabs](https://oxylabs.io/) - Proxy and scraping solutions
 * [ScraperAPI](https://www.scraperapi.com/) - Proxy API service
+* [Haunt API](https://hauntapi.com) - AI-powered web extraction API with Cloudflare bypass, $0.01/request pay-per-use
 * [IPRotate](https://www.iprotatepro.com/) - IP rotation service
 * [Smartproxy](https://smartproxy.com/) – Residential and datacenter proxies
 * [SOAX](https://soax.com/) – Rotating residential and mobile proxies
