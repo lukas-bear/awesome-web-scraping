@@ -99,6 +99,7 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [Smartproxy](https://smartproxy.com/) – Residential and datacenter proxies
 * [SOAX](https://soax.com/) – Rotating residential and mobile proxies
 * [ProxyEmpire](https://proxyempire.io/) – Ok residential and mobile proxies
+* [ProxyGateway](https://proxygateway.si/) - Dedicated EU 4G modem per customer, HTTP CONNECT and SOCKS5, new IP from the dashboard
 * [NetNut](https://netnut.io/) – ISP proxies with high uptime
 
 ### CAPTCHA Solvers
