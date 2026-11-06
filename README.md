@@ -12,6 +12,7 @@ A comprehensive collection of web scraping resources, tools, and libraries.
   - [Data Formats](#data-formats)
 - [Browser Automation](#browser-automation)
   - [Headless Browsers](#headless-browsers)
+  - [Managed Browser APIs](#managed-browser-apis)
   - [Testing Frameworks](#testing-frameworks)
   - [Browser Extensions](#browser-extensions)
   - [Anti-detect Browsers](#anti-detect-browsers)
@@ -70,6 +71,9 @@ A comprehensive collection of web scraping resources, tools, and libraries.
 * [Chrome](https://www.google.com/chrome/browser/) - Most widely supported
 * [Firefox](https://www.mozilla.org/firefox/) - Open-source alternative
 * [PhantomJS](https://phantomjs.org/) - Scriptable headless WebKit
+
+### Managed Browser APIs
+* [AdsCrawl](https://www.adscrawl.net/) - Managed cloud browser, browser automation, and web data extraction APIs for dynamic websites.
 
 ### Testing Frameworks
 * [Selenium](https://www.selenium.dev/) - Browser automation standard
